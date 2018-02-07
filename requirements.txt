@@ -1,5 +1,3 @@
-pandas
 keras
 numpy
-pickle
 tensorflow
