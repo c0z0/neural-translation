@@ -16,4 +16,4 @@ $ pip install -r requirements.txt
 $ jupyter notebook
 ```
 
-This model is just a simple demo of Sequence2Sequence LSTMs. Is not that accurate :)
+This model is just a simple demo of Sequence2Sequence LSTMs. It is not very accurate :)
