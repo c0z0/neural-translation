@@ -2,7 +2,7 @@
 Simple keras translation.
 <p align="center">
   <a href="https://cserdean.me/ai/translate">
-    <img src="/screenshot.png">
+    <img src="/ss.png">
   </a>
 </p>
 
